@@ -1,7 +1,8 @@
 # Safe Circular Structure - Changelog
 
 # 2021-03-08 - Initial commit
-  * [v0.0.3] Add missing main entry point **dist/index.ts**
+  * [v0.0.4] Fix main entry point **dist/src/index.js**
+  * [v0.0.3] Add missing main entry point **dist/index.js**
   * [v0.0.2] Removed dependencies
   * Update package version **v0.0.1**
   * Add function **safeObject** (**v0.0.1**)
