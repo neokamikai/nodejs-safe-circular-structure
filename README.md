@@ -1,6 +1,6 @@
 # nodejs-safe-circular-structure
 
-Current package version: **0.0.1**
+Current package version: **0.0.2**
 
 ## How to use
 

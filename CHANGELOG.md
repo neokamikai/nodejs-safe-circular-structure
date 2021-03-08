@@ -1,6 +1,7 @@
 # Safe Circular Structure - Changelog
 
 # 2021-03-08 - Initial commit
+  * Removed dependencies
   * Update package version **v0.0.1**
   * Add function **safeObject** (**v0.0.1**)
   * Add tests for **safeObject**
