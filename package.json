@@ -1,6 +1,9 @@
 {
   "name": "@kamikai/safe-circular-structure",
   "private": false,
+  "publishConfig": {
+    "access": "public",
+  },
   "version": "0.0.1",
   "displayName": "Safe Circular Structure",
   "description": "Provides helper functions for safely handling circular-structure objects",
