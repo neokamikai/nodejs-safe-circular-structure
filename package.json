@@ -2,7 +2,7 @@
   "name": "@kamikai/safe-circular-structure",
   "private": false,
   "publishConfig": {
-    "access": "public",
+    "access": "public"
   },
   "version": "0.0.1",
   "displayName": "Safe Circular Structure",
