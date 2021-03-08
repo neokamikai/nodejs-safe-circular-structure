@@ -1,6 +1,6 @@
 import safeObject from './safe-object';
 
-interface Options {
+export interface Options {
   stripPropertiesWithUndefinedValue?: boolean
 }
 const stringify = (value: any, options: Options = {}) => {
